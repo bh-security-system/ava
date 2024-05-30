@@ -1,0 +1,10 @@
+{
+  "address": [
+    {
+      "url": "https://ava.starvpn.cloud//api_post.php",
+      "get_url": "https://ava.starvpn.cloud/api_get.php",
+      "url_server": "https://ava.starvpn.cloud/server_none.png",
+      "url_user": "https://ava.starvpn.cloud/user_ban.png"
+    }
+  ]
+}
